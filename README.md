@@ -3,5 +3,5 @@ This repo contains python code for geospatial analysis. The python libraries use
 1. Pandas
 2.Geopandas
 
-This repo laso hosts labs examples, which will be updated from time to time.
+This repo also hosts labs examples, which will be updated from time to time.
 
